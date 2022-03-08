@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SnoopyMoustache;
 - 👀 I’m interested in learning everything about java coding;
 - 🌱 I’m currently learning java programming from start to finish;
-- 💞️ I’m looking to collaborate on nothing currently until I have some knowledge in coding;
 - 📫 How to reach me: Twitter DM - JustinJesse (@justin77jesse);
 
 <!---
